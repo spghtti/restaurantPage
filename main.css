@@ -1,0 +1,163 @@
+body,
+html {
+  background-color: rgb(0, 0, 0);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+#content {
+  color: black;
+  border-radius: 30px;
+  position: relative;
+  padding: 150px;
+  margin: 0 auto;
+  max-width: 100%;
+  height: 100%;
+}
+.bg {
+  height: 100%;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 1)
+    ),
+    url("images/restaurant.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#headline {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  color: rgb(250, 246, 0);
+  border-radius: 100px;
+  width: auto;
+  height: 175px;
+  margin: 0 auto;
+}
+#review {
+  flex-wrap: wrap;
+  font-size: 25px;
+  flex-direction: column;
+  font-family: "Noto Sans JP";
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(250, 246, 0);
+  border-radius: 100px;
+  margin: 500px auto 50px;
+  padding: 0px 10px 10px 10px;
+  height: 400px;
+  max-width: 600px;
+  width: auto;
+}
+#hours {
+  flex-wrap: wrap;
+  font-size: 25px;
+  flex-direction: column;
+  font-family: "Noto Sans JP";
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(250, 246, 0);
+  border-radius: 100px;
+  margin: 20px auto;
+  flex: 1 1 160px;
+  padding: 0px 10px 10px 10px;
+  height: 400px;
+  width: auto;
+  max-width: 600px;
+}
+.tab-module {
+  flex-wrap: wrap;
+  font-size: 25px;
+  flex-direction: column;
+  font-family: "Noto Sans JP";
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(250, 246, 0);
+  border-radius: 100px;
+  margin: 20px auto;
+  flex: 1 1 160px;
+  padding: 0px 10px 10px 10px;
+  height: auto;
+  width: auto;
+  max-width: 600px;
+}
+h1 {
+  font-size: 90pt;
+  font-family: "Playfair Display", serif;
+  font-weight: 800;
+}
+
+h2 {
+  margin-top: 9px;
+  font-size: 30pt;
+  font-family: "Playfair Display", serif;
+}
+p {
+  font-size: 17pt;
+  font-family: "Noto Sans JP";
+  line-height: 1.15em;
+}
+.image {
+  height: 250px;
+  margin-top: 10px;
+}
+
+#icon-attribution {
+  text-align: right;
+  font-size: 8pt;
+  color: rgb(255, 255, 255);
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
+#icon {
+  border-radius: 15px;
+  height: 70px;
+  width: 70px;
+  margin: 0 auto;
+  margin-top: -30px;
+}
+li {
+  display: flex;
+  list-style-type: none;
+}
+ul {
+  display: flex;
+  align-items: center;
+  width: auto;
+  justify-content: center;
+}
+#siteNav {
+  font-size: 20pt;
+  font-family: "Noto Sans JP";
+  padding-right: 10px;
+  width: auto;
+  height: auto;
+  position: relative;
+}
+.tab {
+  color: black;
+  background-color: yellow;
+  width: 200px;
+  margin: 10px;
+  height: 75px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  border-radius: 30px;
+}
+.tab:hover {
+  cursor: pointer;
+}
