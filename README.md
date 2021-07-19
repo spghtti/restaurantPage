@@ -5,7 +5,7 @@
 This is a solution to the Odin's Project's [assignment](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/restaurant-page) to create a mock restaurant page almost entirely in Javascript. With the exception of the sitenav, this page utilizes as little HTML and global JS as possible. 
 
 ## Live project demo
-https://spghtti.github.io/restaurantPage/
+:point_right: https://spghtti.github.io/restaurantPage/ :point_left:
 
 ## Built With
 
