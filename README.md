@@ -12,10 +12,10 @@ This is a solution to the Odin's Project's [assignment](https://www.theodinproje
 - [Vanilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Node] (https://www.npmjs.com/)
+- [Node](https://www.npmjs.com/)
 - [Webpack](https://webpack.js.org/)
 
 
-## License
+## Licensehttps://www.npmjs.com/
 
 Distributed under the MIT License. See LICENSE.txt for more information.
