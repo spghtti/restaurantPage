@@ -16,6 +16,6 @@ This is a solution to the Odin's Project's [assignment](https://www.theodinproje
 - [Webpack](https://webpack.js.org/)
 
 
-## Licensehttps://www.npmjs.com/
+## License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
